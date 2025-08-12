@@ -1,4 +1,4 @@
-# React(Vite)
+# React
 
 ## React 공식 수업 시작
 
